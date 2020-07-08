@@ -37,9 +37,9 @@ void menuInformes(eNotebook notebooks[],int tam,eTipo tipos[],eMarca marcas[],eC
         printf("15. Mostrar notebook menos potente\n");
         printf("16. Mostrar notebooks por procesador\n");
         printf("17. Mostrar notebooks por cliente\n");
-        printf("19. Salir\n");
+        printf("18. Salir\n");
 
-        utn_getEntero(&opciones,20,"\nIngrese una opcion: ","Error. Vuelva a intentarlo",1,19);
+        utn_getEntero(&opciones,20,"\nIngrese una opcion: ","Error. Vuelva a intentarlo",1,18);
 
         switch(opciones)
         {
@@ -134,14 +134,10 @@ void menuInformes(eNotebook notebooks[],int tam,eTipo tipos[],eMarca marcas[],eC
             system("pause");
             break;
         case 18:
-            system("cls");
-            listarPotencia(notebooks,tam,marcas,tipos,clientes,procesadores);
-            system("pause");
-            break;
-        case 19:
+
             break;
         }
-    }while(opciones!=19);
+    }while(opciones!=18);
 }
 
 void mostrarNotebookPorMarca(eNotebook notebooks[],int tam,eTipo tipos[], int tamVarios,eMarca marcas[],eCliente clientes[],eProcesador procesadores[])
