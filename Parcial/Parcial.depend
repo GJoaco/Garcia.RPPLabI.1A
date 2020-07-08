@@ -1,0 +1,201 @@
+# depslib dependency file v1.0
+1589920159 source:c:\users\joaquin garcia\desktop\parcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1589920159 c:\users\joaquin garcia\desktop\parcial\utn.h
+
+1590746575 source:c:\users\joaquin garcia\desktop\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Notebook.h"
+	"Marca.h"
+	"Tipo.h"
+	"Servicio.h"
+	"Trabajo.h"
+	"Cliente.h"
+	"Informe.h"
+
+1589977219 c:\users\joaquin garcia\desktop\parcial\notebook.h
+	"Marca.h"
+	"Tipo.h"
+	"Cliente.h"
+
+1589982299 c:\users\joaquin garcia\desktop\parcial\marca.h
+
+1589948018 c:\users\joaquin garcia\desktop\parcial\tipo.h
+
+1589948018 c:\users\joaquin garcia\desktop\parcial\servicio.h
+
+1589977198 c:\users\joaquin garcia\desktop\parcial\trabajo.h
+	"Notebook.h"
+	"Servicio.h"
+
+1589979330 source:c:\users\joaquin garcia\desktop\parcial\marca.c
+	<stdio.h>
+	"utn.h"
+	"Marca.h"
+
+1589977415 source:c:\users\joaquin garcia\desktop\parcial\notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Notebook.h"
+	"Marca.h"
+	"Tipo.h"
+	"Cliente..h"
+	"utn.h"
+
+1589945389 source:c:\users\joaquin garcia\desktop\parcial\servicio.c
+	<stdio.h>
+	"Servicio.h"
+	"utn.h"
+
+1589945389 source:c:\users\joaquin garcia\desktop\parcial\tipo.c
+	<stdio.h>
+	"utn.h"
+	"Tipo.h"
+
+1589977123 source:c:\users\joaquin garcia\desktop\parcial\trabajo.c
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	"Trabajo.h"
+	"Marca.h"
+	"Tipo.h"
+	"Servicio.h"
+	"Notebook.h"
+
+1589976401 c:\users\joaquin garcia\desktop\parcial\cliente.h
+
+1589974765 c:\users\joaquin garcia\desktop\parcial\cliente..h
+
+1589976791 source:c:\users\joaquin garcia\desktop\parcial\cliente.c
+	<stdio.h>
+	"utn.h"
+	"Cliente.h"
+
+1589986269 c:\users\joaquin garcia\desktop\parcial\informe.h
+
+1590746384 source:c:\users\joaquin garcia\desktop\parcial\informe.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Notebook.h"
+	"Marca.h"
+	"Tipo.h"
+	"Servicio.h"
+	"Trabajo.h"
+	"Cliente.h"
+	"Informe.h"
+
+1594171002 source:c:\users\joaquin garcia\desktop\programacion-en-c\parcial\cliente.c
+	<stdio.h>
+	"utn.h"
+	"Cliente.h"
+
+1589920159 c:\users\joaquin garcia\desktop\programacion-en-c\parcial\utn.h
+
+1594185036 c:\users\joaquin garcia\desktop\programacion-en-c\parcial\cliente.h
+
+1589979330 source:c:\users\joaquin garcia\desktop\programacion-en-c\parcial\marca.c
+	<stdio.h>
+	"utn.h"
+	"Marca.h"
+
+1589982299 c:\users\joaquin garcia\desktop\programacion-en-c\parcial\marca.h
+
+1594217450 source:c:\users\joaquin garcia\desktop\programacion-en-c\parcial\notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Notebook.h"
+	"Marca.h"
+	"Tipo.h"
+	"Cliente.h"
+	"utn.h"
+	"Procesador.h"
+
+1594217450 c:\users\joaquin garcia\desktop\programacion-en-c\parcial\notebook.h
+	"Marca.h"
+	"Tipo.h"
+	"Cliente.h"
+	"Procesador.h"
+
+1589948018 c:\users\joaquin garcia\desktop\programacion-en-c\parcial\tipo.h
+
+1589945389 source:c:\users\joaquin garcia\desktop\programacion-en-c\parcial\servicio.c
+	<stdio.h>
+	"Servicio.h"
+	"utn.h"
+
+1589948018 c:\users\joaquin garcia\desktop\programacion-en-c\parcial\servicio.h
+
+1589945389 source:c:\users\joaquin garcia\desktop\programacion-en-c\parcial\tipo.c
+	<stdio.h>
+	"utn.h"
+	"Tipo.h"
+
+1594217653 source:c:\users\joaquin garcia\desktop\programacion-en-c\parcial\trabajo.c
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	"Trabajo.h"
+	"Marca.h"
+	"Tipo.h"
+	"Servicio.h"
+	"Notebook.h"
+
+1594217653 c:\users\joaquin garcia\desktop\programacion-en-c\parcial\trabajo.h
+	"Notebook.h"
+	"Servicio.h"
+
+1589920159 source:c:\users\joaquin garcia\desktop\programacion-en-c\parcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1594220498 source:c:\users\joaquin garcia\desktop\programacion-en-c\parcial\informe.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Notebook.h"
+	"Marca.h"
+	"Tipo.h"
+	"Servicio.h"
+	"Trabajo.h"
+	"Cliente.h"
+	"Informe.h"
+
+1594220498 c:\users\joaquin garcia\desktop\programacion-en-c\parcial\informe.h
+
+1594220062 source:c:\users\joaquin garcia\desktop\programacion-en-c\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Notebook.h"
+	"Marca.h"
+	"Tipo.h"
+	"Servicio.h"
+	"Trabajo.h"
+	"Cliente.h"
+	"Informe.h"
+	"Procesador.h"
+
+1594213005 source:c:\users\joaquin garcia\desktop\programacion-en-c\parcial\procesador.c
+	<stdio.h>
+	"utn.h"
+	"Procesador.h"
+
+1594212361 c:\users\joaquin garcia\desktop\programacion-en-c\parcial\procesador.h
+
